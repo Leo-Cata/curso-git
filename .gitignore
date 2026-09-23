@@ -2,3 +2,4 @@
 bin/      # .class
 *.class      # clases compiladas
 App.class   # app class
+bin/App.class
