@@ -1,8 +1,8 @@
 public class App {
-    private final String mensaje = "Hello, world";
+    private static final String MENSAJE = "Hello, world";
 
     public String getMensaje() {
-        return this.mensaje;
+        return this.MENSAJE;
     }
 
     public static void main(String[] args) throws Exception {
